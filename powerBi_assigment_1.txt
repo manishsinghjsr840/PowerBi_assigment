@@ -1,6 +1,4 @@
 
-Sure, here are the answers to your questions:
-
 What do you mean by BI? Explain.
 
 BI stands for Business Intelligence. It is a broad term that encompasses the processes, technologies, and applications used to collect, analyze, and visualize data to help businesses make better decisions. BI can be used to improve a wide range of business functions, including sales, marketing, operations, and finance.
